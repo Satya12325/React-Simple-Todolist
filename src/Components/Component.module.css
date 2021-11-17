@@ -1,0 +1,46 @@
+.button{
+    margin: .25rem;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+    padding: .50rem;
+    font-size: 1rem;
+    color:red;
+}
+.button:hover{
+    background: greenyellow;
+    color: blue
+}
+input{
+    margin: .25rem;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: .50rem;
+    border-radius: 5px;
+}
+h1{
+    color:red;
+}
+h4{
+    color:green;
+}
+span{
+    background: yellow;
+    border-radius: 5px;
+    border: 1px solid red;
+    color: black;
+    padding: .50rem;
+   
+}
+.toggle{
+    font-weight: bold;
+    color: gray;
+    background:red;
+    padding: .50rem;
+    font-size: 1rem;
+    border-radius:50%;
+    cursor: pointer;
+}
+.todoss{
+    margin: 0.5rem;
+}
